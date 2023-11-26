@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalTask/AnimalTask.iml" filepath="$PROJECT_DIR$/AnimalTask/AnimalTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeopleTask/PeopleTask.iml" filepath="$PROJECT_DIR$/PeopleTask/PeopleTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception_handling_lab/exception_handling_lab.iml" filepath="$PROJECT_DIR$/exception_handling_lab/exception_handling_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab24_11.iml" filepath="$PROJECT_DIR$/lab24_11.iml" />
+    </modules>
+  </component>
+</project>

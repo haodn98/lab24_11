@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-26T20:25:35.639023Z</date>
+  <millis>1701030335639</millis>
+  <nanos>23000</nanos>
+  <sequence>0</sequence>
+  <logger>LoggingException1</logger>
+  <level>SEVERE</level>
+  <class>LoggerException1</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>LoggerException1
+	at Task_5_LoggerExceptionCaller.throwLoggingException1(Task_5_LoggerExceptionCaller.java:42)
+	at Task_5.main(Task_5.java:7)
+</message>
+</record>
+<record>
+  <date>2023-11-26T20:25:35.700766700Z</date>
+  <millis>1701030335700</millis>
+  <nanos>766700</nanos>
+  <sequence>1</sequence>
+  <logger>LoggingException2</logger>
+  <level>SEVERE</level>
+  <class>LoggerException2</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>LoggerException2
+	at Task_5_LoggerExceptionCaller.throwLoggingException2(Task_5_LoggerExceptionCaller.java:46)
+	at Task_5.main(Task_5.java:13)
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-26T20:26:06.792007400Z</date>
+  <millis>1701030366792</millis>
+  <nanos>7400</nanos>
+  <sequence>0</sequence>
+  <logger>LoggingException1</logger>
+  <level>SEVERE</level>
+  <class>LoggerException1</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>LoggerException1
+	at Task_5_LoggerExceptionCaller.throwLoggingException1(Task_5_LoggerExceptionCaller.java:42)
+	at Task_5.main(Task_5.java:7)
+</message>
+</record>
+<record>
+  <date>2023-11-26T20:26:06.873109Z</date>
+  <millis>1701030366873</millis>
+  <nanos>109000</nanos>
+  <sequence>1</sequence>
+  <logger>LoggingException2</logger>
+  <level>SEVERE</level>
+  <class>LoggerException2</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>LoggerException2
+	at Task_5_LoggerExceptionCaller.throwLoggingException2(Task_5_LoggerExceptionCaller.java:46)
+	at Task_5.main(Task_5.java:13)
+</message>
+</record>
+</log>
